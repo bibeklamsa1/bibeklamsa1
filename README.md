@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bibeklamsa1
-- 👀 I’m interested in App Develpment, Machine Learning.
+- 👋 Hi, I’m @bibeklamsal
+- 👀 I like writing code in python and i am efficent in Django web development.
 - 🌱 I’m currently working in Carelon  as Software Developer.
 
 <!---
