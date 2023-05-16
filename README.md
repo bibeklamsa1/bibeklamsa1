@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @bibeklamsal
-- 👀 I like writing code in python and i am efficent in Django web development.
-- 🌱 I’m currently working in Carelon  as Software Developer.
+@bibeklamsal is a Software Developer who works at Carelon. He is proficient in Django web development and enjoys writing code in Python.
 
 <!---
 bibeklamsa1/bibeklamsa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
