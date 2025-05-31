@@ -12,4 +12,4 @@
 
 📫 Let’s connect:
 - [LinkedIn](https://www.linkedin.com/in/bibek-lamsal-65323817b)
-- [myresume website](https://github.com/bibeklamsa1?tab=repositories)
+- [Projects](https://github.com/bibeklamsa1?tab=repositories)
